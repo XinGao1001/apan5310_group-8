@@ -6,12 +6,12 @@ The project designed and developed the relational database system for the ABC Fo
 ## Tasks & Timeline
 For the team contract, we've specified and agreed on tasks and responsibilities as stated below including tasks, deadlines in parentheses, and people who are responsible for specific tasks.
 
-### Task 1: Analyze requirements 
+**Task 1: Analyze requirements**
 
 Define business requirements (03/30/2024) Xin, Hao
 
 
-### Task 2: Design the database schema 
+**Task 2: Design the database schema**
 
 Define features needed for the database (04/03/2024) Xin, Hao
 
@@ -26,7 +26,7 @@ Identify 3NF (04/11/2024) Hao
 Create tables (04/14/2024) Hao, Kiko
 
 
-### Task 3: Develop the database
+**Task 3: Develop the database**
 
 ETL process copied in GitHub (04/20/2024) Xin, Hao, Kiko
 
@@ -37,7 +37,7 @@ Populate the database with sample data (04/21/2024) Kiko
 Design Interactive dashboard (04/22/2024) Zijun
 
 
-### Task 4: Written report (04/23/2024) 5-7 pages of text
+**Task 4: Written report (04/23/2024)**
 
 Problem statement (04/10/2024) Xin
 
@@ -52,9 +52,9 @@ Analytics applications (04/23/2024) Zijun
 Proofreading (04/23/2024) Xin
 
 
-### Task 5: Powerpoint slides (04/22/2024) Xin, Hao, Kiko, Zijun
+**Task 5: Powerpoint slides (04/22/2024) Xin, Hao, Kiko, Zijun**
 
-### Task 6: Presentation (04/24/2024) Xin, Hao, Zijun, Kiko
+**Task 6: Presentation (04/24/2024) Xin, Hao, Zijun, Kiko**
 
 ## Database Design
 After defining features, tables, and normalization, we designed to build 15 tables for the database.
