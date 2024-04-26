@@ -78,6 +78,27 @@ Then, we drew an ER diagram for the database as shown below.
 
 ![ER diagram](5310project_ER.png)
 
+## ETL & Analytical Procedures
+We conducted the ETL process via Python. Also, we designed ten analytical procedures written in SQL queries, whose output could be seen through the same Python file.
 
+The analytical procedures can answer the following questions:
+1. Which store has the maximum overall profit?
+2. Which product has the highest sales (so stores can restock more related products)?
+3. In which area the company spends the most (to reduce potential cost)?
+4. Identify customer segments to make informed marketing campaigns.
+5. Identify products that are going to expire and add them to the discount table (optimize profit).
+6. Which region has the highest sales?
+7. During which period did we get the highest passenger flow (by sale time)?
+8. Which cashier has made the most transactions or the largest profit (stimulate employees by giving bonuses)?
+9. Calculate the salary of each employee in December 2022.
+10. Identify the 10 sellers with the lowest volumes and give warnings.
 
+You can view the ETL process and analytical procedures in Python through `APAN5310_project.ipynb`
+
+You can also check SQL queries for analytical procedures through  `queries.sql`
+
+## Dashboard
+We built the dashboard based on analytical procedures by entering queries in Metabase and forming visualizations. Audiences are welcome to click over the tables to view specific information.
+
+You can view the dashboard through `ABC Foodmart operation analysis`
 
