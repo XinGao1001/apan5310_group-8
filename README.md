@@ -55,7 +55,7 @@ Proofreading (04/23/2024) Xin
 
 ### Task 6: Presentation (04/24/2024) Xin, Hao, Zijun, Kiko
 
-## database design
+## Database Design
 The project designed and developed the relational database system for the ABC Foodmart Scenario.
 
 After defining features, tables, and normalization, we designed to build 15 tables for the database.
