@@ -100,5 +100,5 @@ You can also check SQL queries for analytical procedures through  `queries.sql`
 ## Dashboard
 We built the dashboard based on analytical procedures by entering queries in Metabase and forming visualizations. Audiences are welcome to click over the tables to view specific information.
 
-You can view the dashboard through `ABC Foodmart operation analysis`
+You can view the dashboard through `ABC Foodmart operation analysis.pdf`
 
