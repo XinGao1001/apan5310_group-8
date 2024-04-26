@@ -1,6 +1,7 @@
 # APAN5310 group 8
 This is the term project of group 8 for APAN 5310.
 The team members include Xin Gao, Kiko Ma, Hao Tang, and Zijun Tao.
+The project designed and developed the relational database system for the ABC Foodmart Scenario.
 
 ## Tasks & Timeline
 For the team contract, we've specified and agreed on tasks and responsibilities as stated below including tasks, deadlines in parentheses, and people who are responsible for specific tasks.
@@ -56,8 +57,6 @@ Proofreading (04/23/2024) Xin
 ### Task 6: Presentation (04/24/2024) Xin, Hao, Zijun, Kiko
 
 ## Database Design
-The project designed and developed the relational database system for the ABC Foodmart Scenario.
-
 After defining features, tables, and normalization, we designed to build 15 tables for the database.
 
 To run queries on your own computer:
